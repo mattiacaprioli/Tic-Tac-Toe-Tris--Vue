@@ -1,11 +1,11 @@
 # Tic Tac Toe (tris)
 
-Questo **progetto** ti consente di prendere il tuo tempo e dedicarlo alla meditazione.
+Il **progetto** del Tic Tac Toe è un'applicazione web interattiva che consente agli utenti di giocare al classico gioco del tris.
 
 ## Funzionalità
 
 Questo è il mio progetto per il corso Vue di start2impact. 
-il progetto del Tic Tac Toe è un'applicazione web interattiva che consente agli utenti di giocare al classico gioco del tris. È stato realizzato utilizzando HTML, CSS, Vue.js e Tailwind CSS. Con funzionalità come il calcolo del vincitore, la gestione dello storico delle mosse e la possibilità di reset del gioco. L'applicazione è responsive e offre un'esperienza di gioco intuitiva e piacevole.
+È stato realizzato utilizzando HTML, CSS, Vue.js e Tailwind CSS. Con funzionalità come il calcolo del vincitore, la gestione dello storico delle mosse e la possibilità di reset del gioco. L'applicazione è responsive e offre un'esperienza di gioco intuitiva e piacevole.
 
 ## Link deploy dell'app con netlify
 
